@@ -1,5 +1,3 @@
-# Differentiable-Skeleton-Recall-Loss
-
 A custom PyTorch loss function that computes skeleton recall in a fully differentiable manner — by leveraging predefined convolution kernels for skeletonization. Designed to evaluate how well predicted segmentations preserve the topology of thin, elongated structures like vessels, airways, or stones.
 
 🚀 Highlights <br>
